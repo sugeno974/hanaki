@@ -14,11 +14,11 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$cakeDescription = __d('cake_dev', '株式会社　華樹工業');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
